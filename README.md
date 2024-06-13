@@ -2,7 +2,7 @@
 <h3 align="center">I'm an engineering student based in Bangalore.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcspidey95&label=Profile%20views&color=0e75b6&style=flat" alt="mcspidey95" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TENONSINISTER&label=Profile%20views&color=0e75b6&style=flat" alt="TENONSINISTER" /> </p>
 
 
 - 🌱 I’m currently learning **Gen AI, Full-Stack Development**
